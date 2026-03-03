@@ -1,2 +1,0 @@
-# Metroxidexidk.bat
-Metroxide.bat
